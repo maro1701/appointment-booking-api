@@ -2,6 +2,10 @@
 
 A REST API for service-based businesses (barbershops, tutors, coaches) to manage appointments with automated email reminders. Built with Node.js, Express, PostgreSQL, BullMQ, and Redis.
 
+**🚀 Live API:** `https://appointment-booking-api-5czu.onrender.com`
+
+> Note: Hosted on Render's free tier. First request may take 30-60 seconds to wake up.
+
 ---
 
 ## Features
